@@ -1,0 +1,11 @@
+torch>=2.0
+diffusers>=0.30.0
+peft>=0.10.0
+accelerate
+transformers
+Pillow
+tqdm
+numpy
+openai>=1.0
+matplotlib
+scipy
