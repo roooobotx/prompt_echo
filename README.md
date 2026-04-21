@@ -249,11 +249,11 @@ See the [paper](https://arxiv.org/abs/2604.12652) for detailed analysis, ablatio
 If you find this work useful, please cite:
 
 ```bibtex
-@article{promptecho2025,
+@article{promptecho2026,
   title={PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning},
   author={PromptEcho Team},
   journal={arXiv preprint arXiv:2604.12652},
-  year={2025}
+  year={2026}
 }
 ```
 
